@@ -33,6 +33,8 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 **Formula 1 circuit locations worldwide:**
 
 ![F1 circuits worldwide](images/3_2.png)
+<img width="3924" height="2036" alt="image" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />
+
 
 **Choropleth map of average housing inventory by state:**
 
