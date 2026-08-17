@@ -20,27 +20,20 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 
 **Indiana state parks, plotted as simple markers:**
 
-(images/1_3.png)
 <img width="738" height="1114" alt="image" src="https://github.com/user-attachments/assets/d4f871d9-f403-4efc-98f8-f5181f5b620a" />
-
+(images/1_3.png)
 
 **Same parks, with full marker pins and labeled popups:**
 
-(images/2_2.png)
-<img width="624" height="1188" alt="image" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />
-
+<img width="624" height="1188" alt="image" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />(images/2_2.png)
 
 **Parks connected by a route line:**
 
-(images/2_3.png)
-<img width="754" height="1102" alt="image" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />
-
+<img width="754" height="1102" alt="image" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />(images/2_3.png)
 
 **Formula 1 circuit locations worldwide:**
 
-(images/3_2.png)
-<img width="3924" height="2036" alt="image" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />
-
+<img width="3924" height="2036" alt="image" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />(images/3_2.png)
 
 **Choropleth map of average housing inventory by state:**
 
