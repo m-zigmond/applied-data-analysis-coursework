@@ -20,19 +20,25 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 
 **Indiana state parks, plotted as simple markers:**
 
-![Indiana state parks - circle markers](images/1_3.png)
+(images/1_3.png)
+<img width="738" height="1114" alt="image" src="https://github.com/user-attachments/assets/d4f871d9-f403-4efc-98f8-f5181f5b620a" />
+
 
 **Same parks, with full marker pins and labeled popups:**
 
-![Indiana state parks - marker pins](images/2_2.png)
+(images/2_2.png)
+<img width="624" height="1188" alt="image" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />
+
 
 **Parks connected by a route line:**
 
-![Indiana state parks - connected route](images/2_3.png)
+(images/2_3.png)
+<img width="754" height="1102" alt="image" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />
+
 
 **Formula 1 circuit locations worldwide:**
 
-![F1 circuits worldwide](images/3_2.png)
+(images/3_2.png)
 <img width="3924" height="2036" alt="image" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />
 
 
