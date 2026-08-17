@@ -31,7 +31,8 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 <img width="3924" height="2036" alt="F1 circuits worldwide" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />
 
 **Choropleth map of average housing inventory by state:**
-<img width="..." height="..." alt="US housing inventory choropleth" src="paste the 5th image the same way, it'll get its own CDN link" />
+<img width="3986" height="1596" alt="image" src="https://github.com/user-attachments/assets/3d39f01c-a24c-406a-8aad-00bb1d13d708" />
+
 ## The short version
 
 Folium makes it straightforward to go from a handful of coordinates to an interactive, labeled map, and the same workflow scales cleanly from a dozen state parks up to a global dataset of racing circuits. The choropleth step was the more involved part. matching state names between the housing data and the shapefile, reprojecting the coordinate reference system, and building a custom color scale all had to line up correctly before the final map made sense.
