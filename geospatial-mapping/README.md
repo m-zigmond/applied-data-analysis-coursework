@@ -24,7 +24,7 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 **Same parks with full marker pins and labeled popups:**
 <img width="624" height="1188" alt="Indiana state parks - marker pins" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />
 
-**Parks connected:**
+**Parks connected by Route:**
 <img width="730" height="1102" alt="Indiana state parks - connected route" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />
 
 **Formula 1 circuit locations worldwide:**
