@@ -19,26 +19,19 @@ A cleaned-up lab from an applied Pandas course, this one's a tour through geospa
 ## The maps
 
 **Indiana state parks, plotted as simple markers:**
-
-<img width="738" height="1114" alt="image" src="https://github.com/user-attachments/assets/d4f871d9-f403-4efc-98f8-f5181f5b620a" />
-(images/1_3.png)
+<img width="738" height="1114" alt="Indiana state parks - circle markers" src="https://github.com/user-attachments/assets/d4f871d9-f403-4efc-98f8-f5181f5b620a" />
 
 **Same parks, with full marker pins and labeled popups:**
-
-<img width="624" height="1188" alt="image" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />(images/2_2.png)
+<img width="624" height="1188" alt="Indiana state parks - marker pins" src="https://github.com/user-attachments/assets/4ace64ab-dfd1-4571-998d-aba5a85c48c9" />
 
 **Parks connected by a route line:**
-
-<img width="754" height="1102" alt="image" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />(images/2_3.png)
+<img width="754" height="1102" alt="Indiana state parks - connected route" src="https://github.com/user-attachments/assets/2f5e9445-afa7-418c-9021-c1225812787e" />
 
 **Formula 1 circuit locations worldwide:**
-
-<img width="3924" height="2036" alt="image" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />(images/3_2.png)
+<img width="3924" height="2036" alt="F1 circuits worldwide" src="https://github.com/user-attachments/assets/ab1e3086-b43f-465d-9858-3db3b2bdd252" />
 
 **Choropleth map of average housing inventory by state:**
-
-![US housing inventory choropleth](images/5.png)
-
+<img width="..." height="..." alt="US housing inventory choropleth" src="paste the 5th image the same way, it'll get its own CDN link" />
 ## The short version
 
 Folium makes it straightforward to go from a handful of coordinates to an interactive, labeled map, and the same workflow scales cleanly from a dozen state parks up to a global dataset of racing circuits. The choropleth step was the more involved part. matching state names between the housing data and the shapefile, reprojecting the coordinate reference system, and building a custom color scale all had to line up correctly before the final map made sense.
